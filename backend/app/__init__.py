@@ -1,0 +1,1 @@
+"""SMARTLEX backend application package."""
